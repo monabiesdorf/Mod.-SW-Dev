@@ -1,6 +1,6 @@
 ﻿class TicTacToe
 
-    //Kommentar, test GitHub
+    //Kommentar, test Änderung
 {        
     private const int boardSize = 3;
     private char[,] board;
